@@ -1,0 +1,72 @@
+
+--- CV: 42 ---
+nan
+
+--- CV: 43 ---
+nom leila bouhaddi leila master ingénierie mécanique école nationale art métiers licence mécanique université mohammed v professionnelle consultante mécanique techconsult présent conseil stratégique ingénierie mécanique amélioration processus fabrication optimisation performance équipements industriels
+
+--- CV: 44 ---
+nom hassan benali hassan benali gmail com certificat soudeur centre professionnelle professionnelle soudeur metalwork présent soudure pièces métalliques construction fabric ation industrielle respect normes sécurité qualité apprenti soudeur weldtech pratique technique soudage manipulation équipements soudure arc soudure tig lecture plan métallurgie mécanique
+
+--- CV: 45 ---
+nom fatima zohra belkadi fatima bts maintenance industrielle institut spécialisé technologie appliquée certificat mécanique école technique professionnelle technicienne maintenance industech présent maintenance préventive corrective équipements industriels réduction temp arrêt optimisant plan maintenance stagiaire technicienne autorepair dépa nnage réparation mécanique véhicules légers maintenance préventive corrective diagnostique pannes réparation mécanique
+
+--- CV: 46 ---
+nom ahmed cherkaoui ahmed bts mécanique industrielle institut spécialisé techno logie appliquée professionnelle chef atelier indusworks présent supervision production gestion équipes technique assurer qualité productivité atelier fabrication mécanique techni cien production promachining planification suivi production optimisation processus réduire coûts augmenter efficacité gestion équipe planification production contrôle qualité amélioration continue
+
+--- CV: 47 ---
+nom karim el idrissi avenue hassan ii maroc e mail karim profil ingénieur mécanique solide conception mécanique gestion projets amélioration continue connaissance approfondie systèmes mécaniques processus fabrication capacité innover améliorer performanc ingénieur génie mécanique école nationale supérieure art métiers ensam licence mécanique énergétique université abdelmalek essaâdi professionnelle ingénieur mécanique lear corporation avril présent conception optimisation systèmes mécaniques ligne production supervision essais validation nouveaux équipements collaboration équipes production améliorer eff icacité processus technicien supérieur mécanique st microelectronics juillet mar maintenance préventive corrective machine production analyse pannes mise œuvre action corrective participation amélioration continue équipements conception mécanique cao
+
+--- CV: 48 ---
+nom rachid moussaoui rachid cap mé canique automobile centre professionnelle professionnelle mécanicien automobile autogarage présent réparation entretien mécanique véhicules spécialisé diagnostic électronique régla ge moteur apprenti mécanicien speedauto apprentissage technique réparation entretien automobile diagnostic électronique entretien réparation mécanique automobile
+
+--- CV: 49 ---
+nom karim el fassi karim ingénieur génie mécanique école mohammadia ingénieurs licence mécanique université hassan ii professionnelle ingénieur mécanique autotech présent conception optimisation systèmes mécaniques véhicules électriques réduction coûts production implémentant méthodes ingénierie valeur stagiaire ingénieur mecapro conception assistée ordinate ur cao modélisation composants mécaniques cao dao solidworks autocad maintenance industrielle conception mécanique
+
+--- CV: 50 ---
+nom dounia rawia dounia master gestion qualité école supérieure management licence génie industriel université internationale professionnelle ingénieure qualité qualitytech présent mise œuvre systèmes gestion qualité is o gestion audit interne externes assurer conformité amélioration continue stagiaire qualité qualipro assistance mise place procédures qualité collecte données analyse processus compéten normes iso gestion audit amélioration continue gestion documentaire mécanique
+
+--- CV: 63 ---
+amine el idrissi rue ibn sina maroc e mail amine professionnelle ingénieur conception mécanique xyz industry avril présent conception systèmes mécaniques équipements industriels réalisation simulation analysis performance coordination équipe production industrialisation produits technicien conception mécanique abc technology juin mar réalisation dessins technique plan mécaniques support technique équipes production master ingénierie mécanique université hassan ii licence génie mécanique université mohammed v conception assistée ordinateur cao analyse structure simulation mécanique gestion maintenance industrielle langues langue maternelle courant avancé
+
+--- CV: 64 ---
+khalid berrada rue ibn batouta maroc e mail khalid linkedin linkedin com in khalidberrada objectif professionnel mécanicien automobile expérimenté souhaite intégrer atelier spécialisé continuer perfectionner réparation entretien véhicules passionné mécanique adapte rapidement nouvelles technology automobile professionnelle mécanicien automobile garage hassan ii mai présent diagnostic réparation véhicules légers réalisation entretiens courants remplacement pièces défectueuses mécanicien stagiaire garage el fath juillet avril assistance mécaniciens réparation véhicules apprentissage procédures entretien automobile mécanicien automobile ofppt diagnostic pannes entretien mécanique systèmes freinage suspension réparation moteurs utilisation outils diagnostiques langues langue maternelle intermédiaire
+
+--- CV: 65 ---
+nan
+
+--- CV: 66 ---
+fatima zahra belhaj boulevard zerktouni maroc e mail fatima linkedin linkedin com in fatimazahrabelhaj objectif professionnel ingénieure mécanique spécialisation thermodynamique analyse systèmes énergétiques cherche intégrer équipe r innover conception équipements économes énergie professionnelle ingénieure mécanique énergie def énergies avril présent conception systèmes gestion chaleur usines optimisation équipements réduire consommation énergétique stagiaire r ghi energy juin mar recherche solution thermodynamiques innovantes participation conception prototype équipements énergétiques master mécanique énergie université sidi mohamed ben abdellah thermodynamique simulation énergétique optimisation systèmes gestion projets conception prototype langues langue maternelle courant
+
+--- CV: 67 ---
+mariam oussama rue abdelmoumen maroc e mail mariam linkedin linkedin com in mariamoussama objectif professionnel ingénieure conception mécanique an industrie aéronautique souhaite contribuer développement technology mécaniques pointe entreprise innovante professionnelle ingénieure conception aéronautique abc aviation avril présent conception pièces mécaniques aéronefs utilisation logiciels cao développer composants optimisés stagiaire conception mécanique xyz aerospace juin mar participation conception systèmes mécaniques complex élaboration plan technique production master mécanique aéronautique université hassan ii conception assistée ordinateur cao simulation mécanique matériaux avancés gestion projets aéronautiques analyse structure langues langue maternelle courant avancé
+
+--- CV: 68 ---
+nom leila bouhaddi leila master ingénierie mécanique école nationale art métiers licence mécanique université mohammed v professionnelle consultante mécanique techconsult présent conseil stratégique ingénierie mécanique amélioration processus fabrication optimisation performance équipements industriels
+
+--- CV: 69 ---
+rachid anouar rue usines maroc e mail rachid professionnelle technicien maintenance industrielle def industry avril présent maintenance préventive corrective machine production optimisation performance équipements mécaniques technicien maintenance abc group juin mar support technique équipes production technicien supérieur génie mécanique ofppt maintenance industrielle diagnostic pannes automatisation industrielle sécurité travail lecture plan technique langues langue maternelle courant
+
+--- CV: 70 ---
+nom hassan benali hassan benali gmail com certificat soudeur centre professionnelle professionnelle soudeur metalwork présent soudure pièces métalliques construction fabric ation industrielle respect normes sécurité qualité apprenti soudeur weldtech pratique technique soudage manipulation équipements soudure arc soudure tig lecture plan métallurgie mécanique
+
+--- CV: 71 ---
+nom fatima zohra belkadi fatima bts maintenance industrielle institut spécialisé technologie appliquée certificat mécanique école technique professionnelle technicienne maintenance industech présent maintenance préventive corrective équipements industriels réduction temp arrêt optimisant plan maintenance stagiaire technicienne autorepair dépa nnage réparation mécanique véhicules légers maintenance préventive corrective diagnostique pannes réparation mécanique
+
+--- CV: 72 ---
+nom ahmed cherkaoui ahmed bts mécanique industrielle institut spécialisé techno logie appliquée professionnelle chef atelier indusworks présent supervision production gestion équipes technique assurer qualité productivité atelier fabrication mécanique techni cien production promachining planification suivi production optimisation processus réduire coûts augmenter efficacité gestion équipe planification production contrôle qualité amélioration continue
+
+--- CV: 73 ---
+nom karim el idrissi avenue hassan ii maroc e mail karim profil ingénieur mécanique solide conception mécanique gestion projets amélioration continue connaissance approfondie systèmes mécaniques processus fabrication capacité innover améliorer performanc ingénieur génie mécanique école nationale supérieure art métiers ensam licence mécanique énergétique université abdelmalek essaâdi professionnelle ingénieur mécanique lear corporation avril présent conception optimisation systèmes mécaniques ligne production supervision essais validation nouveaux équipements collaboration équipes production améliorer eff icacité processus technicien supérieur mécanique st microelectronics juillet mar maintenance préventive corrective machine production analyse pannes mise œuvre action corrective participation amélioration continue équipements conception mécanique cao
+
+--- CV: 74 ---
+nom rachid moussaoui rachid cap mé canique automobile centre professionnelle professionnelle mécanicien automobile autogarage présent réparation entretien mécanique véhicules spécialisé diagnostic électronique régla ge moteur apprenti mécanicien speedauto apprentissage technique réparation entretien automobile diagnostic électronique entretien réparation mécanique automobile
+
+--- CV: 75 ---
+saïd oukili a e mail said linkedin linkedin com in saidoukili objectif professionnel technicien maintenance mécanique an maintenance préventive corrective équipements industriels souhaite évoluer entreprise industrielle apporter savoir faire gestion équipements mécaniques professionnelle technicien maintenance mécanique jkl industry mar présent réalisation maintenance préventives corrective machine production diagnostic pannes optimisation temp réparation technicien maintenance mno entreprises juillet février maintenance équipements mécaniques lourds amélioration procédures maintenance réduire arrêts production technicien maintenance mécanique ofppt maintenance préventive corrective diagnostic pannes gestion stock pièces sécurité industrielle lecture plan technique
+
+--- CV: 76 ---
+nom karim el fassi karim ingénieur génie mécanique école mohammadia ingénieurs licence mécanique université hassan ii professionnelle ingénieur mécanique autotech présent conception optimisation systèmes mécaniques véhicules électriques réduction coûts production implémentant méthodes ingénierie valeur stagiaire ingénieur mecapro conception assistée ordinate ur cao modélisation composants mécaniques cao dao solidworks autocad maintenance industrielle conception mécanique
+
+--- CV: 77 ---
+nom dounia rawia dounia master gestion qualité école supérieure management licence génie industriel université internationale professionnelle ingénieure qualité qualitytech présent mise œuvre systèmes gestion qualité is o gestion audit interne externes assurer conformité amélioration continue stagiaire qualité qualipro assistance mise place procédures qualité collecte données analyse processus compéten normes iso gestion audit amélioration continue gestion documentaire mécanique

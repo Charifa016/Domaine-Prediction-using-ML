@@ -1,0 +1,128 @@
+KNN Model:
+                     precision    recall  f1-score   support
+
+              Civil       0.11      1.00      0.19         2
+       Informatique       0.00      0.00      0.00         4
+          Juridique       0.00      0.00      0.00         2
+         Logistique       0.00      0.00      0.00         3
+          Mécanique       0.00      0.00      0.00         2
+Ressources humaines       0.00      0.00      0.00         1
+         économique       0.00      0.00      0.00         3
+         électrique       0.00      0.00      0.00         2
+
+           accuracy                           0.11        19
+          macro avg       0.01      0.12      0.02        19
+       weighted avg       0.01      0.11      0.02        19
+
+Decision Tree Model:
+                     precision    recall  f1-score   support
+
+              Civil       0.25      0.50      0.33         2
+       Informatique       1.00      0.25      0.40         4
+          Juridique       0.67      1.00      0.80         2
+         Logistique       1.00      0.33      0.50         3
+          Mécanique       1.00      1.00      1.00         2
+Ressources humaines       0.33      1.00      0.50         1
+         économique       0.33      0.33      0.33         3
+         électrique       1.00      1.00      1.00         2
+
+           accuracy                           0.58        19
+          macro avg       0.70      0.68      0.61        19
+       weighted avg       0.75      0.58      0.57        19
+
+SVM Model:
+                     precision    recall  f1-score   support
+
+              Civil       0.00      0.00      0.00         2
+       Informatique       0.00      0.00      0.00         4
+          Juridique       0.00      0.00      0.00         2
+         Logistique       0.00      0.00      0.00         3
+          Mécanique       0.00      0.00      0.00         2
+Ressources humaines       0.00      0.00      0.00         1
+         économique       0.12      0.67      0.20         3
+         électrique       1.00      0.50      0.67         2
+
+           accuracy                           0.16        19
+          macro avg       0.14      0.15      0.11        19
+       weighted avg       0.12      0.16      0.10        19
+
+Random Forest Model:
+                     precision    recall  f1-score   support
+
+              Civil       0.50      0.50      0.50         2
+       Informatique       1.00      0.25      0.40         4
+          Juridique       0.67      1.00      0.80         2
+         Logistique       0.00      0.00      0.00         3
+          Mécanique       1.00      1.00      1.00         2
+Ressources humaines       1.00      1.00      1.00         1
+         économique       0.22      0.67      0.33         3
+         électrique       1.00      0.50      0.67         2
+
+           accuracy                           0.53        19
+          macro avg       0.67      0.61      0.59        19
+       weighted avg       0.63      0.53      0.50        19
+
+KNN Model:
+                     precision    recall  f1-score   support
+
+              Civil       1.00      0.50      0.67         4
+       Informatique       0.00      0.00      0.00         5
+          Juridique       0.00      0.00      0.00         5
+         Logistique       0.00      0.00      0.00         3
+          Mécanique       1.00      1.00      1.00         4
+Ressources humaines       0.00      0.00      0.00         1
+         économique       0.09      1.00      0.17         2
+         électrique       0.00      0.00      0.00         4
+
+           accuracy                           0.29        28
+          macro avg       0.26      0.31      0.23        28
+       weighted avg       0.29      0.29      0.25        28
+
+Decision Tree Model:
+                     precision    recall  f1-score   support
+
+              Civil       0.75      0.75      0.75         4
+       Informatique       1.00      0.40      0.57         5
+          Juridique       1.00      1.00      1.00         5
+         Logistique       1.00      1.00      1.00         3
+          Mécanique       1.00      1.00      1.00         4
+Ressources humaines       0.33      1.00      0.50         1
+         économique       0.67      1.00      0.80         2
+         électrique       1.00      1.00      1.00         4
+
+           accuracy                           0.86        28
+          macro avg       0.84      0.89      0.83        28
+       weighted avg       0.92      0.86      0.86        28
+
+SVM Model:
+                     precision    recall  f1-score   support
+
+              Civil       1.00      0.25      0.40         4
+       Informatique       1.00      0.60      0.75         5
+          Juridique       1.00      0.40      0.57         5
+         Logistique       0.00      0.00      0.00         3
+          Mécanique       1.00      0.75      0.86         4
+Ressources humaines       1.00      1.00      1.00         1
+         économique       0.14      1.00      0.25         2
+         électrique       1.00      1.00      1.00         4
+
+           accuracy                           0.57        28
+          macro avg       0.77      0.62      0.60        28
+       weighted avg       0.83      0.57      0.61        28
+
+Random Forest Model:
+                     precision    recall  f1-score   support
+
+              Civil       0.67      0.50      0.57         4
+       Informatique       1.00      1.00      1.00         5
+          Juridique       1.00      0.80      0.89         5
+         Logistique       1.00      0.33      0.50         3
+          Mécanique       1.00      1.00      1.00         4
+Ressources humaines       1.00      1.00      1.00         1
+         économique       0.40      1.00      0.57         2
+         électrique       0.80      1.00      0.89         4
+
+           accuracy                           0.82        28
+          macro avg       0.86      0.83      0.80        28
+       weighted avg       0.88      0.82      0.82        28
+

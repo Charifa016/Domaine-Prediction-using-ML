@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Recrutement par Chatbot</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+</head>
+<body>
+    <div class="chat-container">
+        <div class="chat-box">
+            <div class="chat-message bot-message">
+                Bonjour ! Veuillez télécharger votre CV pour que je puisse déterminer votre domaine de travail.
+            </div>
+            <form method="POST" enctype="multipart/form-data">
+                <input type="file" name="file" id="file" required>
+                <button type="submit">Envoyer</button>
+            </form>
+        </div>
+    </div>
+</body>
+</html>

@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Résultat de la Classification</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+</head>
+<body>
+    <div class="result-container">
+        <h1>Résultat de la Classification</h1>
+        <p>Le domaine prédictif est : {{ prediction }}</p>
+        <a href="/">Retour</a>
+    </div>
+</body>
+</html>
